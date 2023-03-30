@@ -6,7 +6,9 @@ Installation:
 
 In the directory you've put the files/application in, run 'pip install -r requirements.txt' 
 
+
 Open up Powershell, run 'python DataAggregation.py' 
+
 
 GUI should pop up, but if GUI doesn't work, you can use MultiPullDataFromWord.py with
 
