@@ -13,4 +13,4 @@ Open up Powershell, run 'python DataAggregation.py'
 
 GUI should pop up, but if GUI doesn't work, you can use MultiPullDataFromWord.py with
 
-'python MultiPullDataFromWord.py <full documents files here> <output .csv file>'
+'python MultiPullDataFromWord.py <<documents here>> <output .csv file>'
